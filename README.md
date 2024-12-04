@@ -1,4 +1,3 @@
-![Snake animation](https://github.com/3RRORCodes/3RRORCodes/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=200&section=header&text=Welcome%20Fam!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
