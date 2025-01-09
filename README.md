@@ -86,18 +86,6 @@
 
 <br><br><br>
 
-<h2 align="center">Featured Videos</h2>
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <a href="https://www.youtube.com/watch?v=wF1n8_OKuVs" target="_blank">
-    <img src="https://img.youtube.com/vi/wF1n8_OKuVs/0.jpg" alt="Featured Video 1" style="width: 300px; height: auto; border-radius: 5px;">
-  </a>
-  <a href="https://www.youtube.com/watch?v=ppLYIy4TyZo" target="_blank">
-    <img src="https://img.youtube.com/vi/ppLYIy4TyZo/0.jpg" alt="Featured Video 2" style="width: 300px; height: auto; border-radius: 5px;">
-  </a>
-</div>
-
-<br><br><br>
-
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&duration=3000&pause=1000&color=3498DB&center=true&vCenter=true&width=600&height=100&lines=Support+My+Work+💓" alt="Typing SVG" />
 </h2>
