@@ -126,8 +126,6 @@
   </p>
 </div>
 
-<br><br>
-
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=100&section=footer" width="100%" alt="Footer Banner">
