@@ -56,17 +56,17 @@
     <tr>
       <td align="center" width="50%" style="padding: 20px;">
         <h3>🚀 Check Our GitHub</h3>
-        <a href="https://github.com/errorhub-projects" target="_blank">
+        <a href="https://github.com/ERRORHub" target="_blank">
           <img src="https://img.shields.io/badge/ERROR%20Hub%20GitHub-Explore%20Our%20Projects-3498db?style=for-the-badge&logo=github&logoColor=white" alt="ERROR Hub GitHub">
         </a>
         <p>Browse our collection of FiveM scripts and resources.</p>
       </td>
       <td align="center" width="50%" style="padding: 20px;">
-        <h3>🛒 Visit Our Store</h3>
-        <a href="https://errorhub.tebex.io" target="_blank">
-          <img src="https://img.shields.io/badge/ERROR%20Hub%20Store-Explore%20Premium%20Resources-2980b9?style=for-the-badge&logo=shopify&logoColor=white" alt="ERROR Hub Store">
+        <h3>🌐 Visit Our Website</h3>
+        <a href="https://errorhub.app" target="_blank">
+          <img src="https://img.shields.io/badge/ERROR%20Hub%20Website-Explore%20Our%20Site-2980b9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="ERROR Hub Website">
         </a>
-        <p>Get premium FiveM scripts and custom assets for your server.</p>
+        <p>Explore everything ErrorHub has to offer on our official website.</p>
       </td>
     </tr>
   </table>
